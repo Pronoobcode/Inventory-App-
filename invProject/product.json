@@ -1,0 +1,402 @@
+[
+    {
+      "product_id": 1,
+      "name": "Product 1",
+      "sku": "SKU001",
+      "price": 10.99,
+      "quantity": 50,
+      "supplier": "Supplier A"
+    },
+    {
+      "product_id": 2,
+      "name": "Product 2",
+      "sku": "SKU002",
+      "price": 15.50,
+      "quantity": 30,
+      "supplier": "Supplier B"
+    },
+    {
+      "product_id": 3,
+      "name": "Product 3",
+      "sku": "SKU003",
+      "price": 20.00,
+      "quantity": 100,
+      "supplier": "Supplier C"
+    },
+    {
+      "product_id": 4,
+      "name": "Product 4",
+      "sku": "SKU004",
+      "price": 12.25,
+      "quantity": 200,
+      "supplier": "Supplier D"
+    },
+    {
+      "product_id": 5,
+      "name": "Product 5",
+      "sku": "SKU005",
+      "price": 8.75,
+      "quantity": 150,
+      "supplier": "Supplier E"
+    },
+    {
+      "product_id": 6,
+      "name": "Product 6",
+      "sku": "SKU006",
+      "price": 5.99,
+      "quantity": 300,
+      "supplier": "Supplier F"
+    },
+    {
+      "product_id": 7,
+      "name": "Product 7",
+      "sku": "SKU007",
+      "price": 25.99,
+      "quantity": 45,
+      "supplier": "Supplier G"
+    },
+    {
+      "product_id": 8,
+      "name": "Product 8",
+      "sku": "SKU008",
+      "price": 18.30,
+      "quantity": 80,
+      "supplier": "Supplier H"
+    },
+    {
+      "product_id": 9,
+      "name": "Product 9",
+      "sku": "SKU009",
+      "price": 22.45,
+      "quantity": 120,
+      "supplier": "Supplier I"
+    },
+    {
+      "product_id": 10,
+      "name": "Product 10",
+      "sku": "SKU010",
+      "price": 30.00,
+      "quantity": 60,
+      "supplier": "Supplier J"
+    },
+    {
+      "product_id": 11,
+      "name": "Product 11",
+      "sku": "SKU011",
+      "price": 12.99,
+      "quantity": 250,
+      "supplier": "Supplier K"
+    },
+    {
+      "product_id": 12,
+      "name": "Product 12",
+      "sku": "SKU012",
+      "price": 17.50,
+      "quantity": 90,
+      "supplier": "Supplier L"
+    },
+    {
+      "product_id": 13,
+      "name": "Product 13",
+      "sku": "SKU013",
+      "price": 9.99,
+      "quantity": 180,
+      "supplier": "Supplier M"
+    },
+    {
+      "product_id": 14,
+      "name": "Product 14",
+      "sku": "SKU014",
+      "price": 23.00,
+      "quantity": 70,
+      "supplier": "Supplier N"
+    },
+    {
+      "product_id": 15,
+      "name": "Product 15",
+      "sku": "SKU015",
+      "price": 14.99,
+      "quantity": 140,
+      "supplier": "Supplier O"
+    },
+    {
+      "product_id": 16,
+      "name": "Product 16",
+      "sku": "SKU016",
+      "price": 19.75,
+      "quantity": 110,
+      "supplier": "Supplier P"
+    },
+    {
+      "product_id": 17,
+      "name": "Product 17",
+      "sku": "SKU017",
+      "price": 24.00,
+      "quantity": 130,
+      "supplier": "Supplier Q"
+    },
+    {
+      "product_id": 18,
+      "name": "Product 18",
+      "sku": "SKU018",
+      "price": 21.50,
+      "quantity": 160,
+      "supplier": "Supplier R"
+    },
+    {
+      "product_id": 19,
+      "name": "Product 19",
+      "sku": "SKU019",
+      "price": 28.00,
+      "quantity": 190,
+      "supplier": "Supplier S"
+    },
+    {
+      "product_id": 20,
+      "name": "Product 20",
+      "sku": "SKU020",
+      "price": 13.10,
+      "quantity": 220,
+      "supplier": "Supplier T"
+    },
+    {
+      "product_id": 21,
+      "name": "Product 21",
+      "sku": "SKU021",
+      "price": 11.40,
+      "quantity": 240,
+      "supplier": "Supplier U"
+    },
+    {
+      "product_id": 22,
+      "name": "Product 22",
+      "sku": "SKU022",
+      "price": 16.00,
+      "quantity": 95,
+      "supplier": "Supplier V"
+    },
+    {
+      "product_id": 23,
+      "name": "Product 23",
+      "sku": "SKU023",
+      "price": 14.50,
+      "quantity": 105,
+      "supplier": "Supplier W"
+    },
+    {
+      "product_id": 24,
+      "name": "Product 24",
+      "sku": "SKU024",
+      "price": 7.00,
+      "quantity": 130,
+      "supplier": "Supplier X"
+    },
+    {
+      "product_id": 25,
+      "name": "Product 25",
+      "sku": "SKU025",
+      "price": 29.99,
+      "quantity": 65,
+      "supplier": "Supplier Y"
+    },
+    {
+      "product_id": 26,
+      "name": "Product 26",
+      "sku": "SKU026",
+      "price": 5.50,
+      "quantity": 200,
+      "supplier": "Supplier Z"
+    },
+    {
+      "product_id": 27,
+      "name": "Product 27",
+      "sku": "SKU027",
+      "price": 26.00,
+      "quantity": 150,
+      "supplier": "Supplier AA"
+    },
+    {
+      "product_id": 28,
+      "name": "Product 28",
+      "sku": "SKU028",
+      "price": 18.75,
+      "quantity": 80,
+      "supplier": "Supplier BB"
+    },
+    {
+      "product_id": 29,
+      "name": "Product 29",
+      "sku": "SKU029",
+      "price": 27.99,
+      "quantity": 110,
+      "supplier": "Supplier CC"
+    },
+    {
+      "product_id": 30,
+      "name": "Product 30",
+      "sku": "SKU030",
+      "price": 16.90,
+      "quantity": 140,
+      "supplier": "Supplier DD"
+    },
+    {
+      "product_id": 31,
+      "name": "Product 31",
+      "sku": "SKU031",
+      "price": 19.40,
+      "quantity": 75,
+      "supplier": "Supplier EE"
+    },
+    {
+      "product_id": 32,
+      "name": "Product 32",
+      "sku": "SKU032",
+      "price": 13.99,
+      "quantity": 160,
+      "supplier": "Supplier FF"
+    },
+    {
+      "product_id": 33,
+      "name": "Product 33",
+      "sku": "SKU033",
+      "price": 22.30,
+      "quantity": 90,
+      "supplier": "Supplier GG"
+    },
+    {
+      "product_id": 34,
+      "name": "Product 34",
+      "sku": "SKU034",
+      "price": 24.60,
+      "quantity": 130,
+      "supplier": "Supplier HH"
+    },
+    {
+      "product_id": 35,
+      "name": "Product 35",
+      "sku": "SKU035",
+      "price": 30.90,
+      "quantity": 50,
+      "supplier": "Supplier II"
+    },
+    {
+      "product_id": 36,
+      "name": "Product 36",
+      "sku": "SKU036",
+      "price": 17.99,
+      "quantity": 100,
+      "supplier": "Supplier JJ"
+    },
+    {
+      "product_id": 37,
+      "name": "Product 37",
+      "sku": "SKU037",
+      "price": 11.10,
+      "quantity": 75,
+      "supplier": "Supplier KK"
+    },
+    {
+      "product_id": 38,
+      "name": "Product 38",
+      "sku": "SKU038",
+      "price": 14.99,
+      "quantity": 200,
+      "supplier": "Supplier LL"
+    },
+    {
+      "product_id": 39,
+      "name": "Product 39",
+      "sku": "SKU039",
+      "price": 25.60,
+      "quantity": 120,
+      "supplier": "Supplier MM"
+    },
+    {
+      "product_id": 40,
+      "name": "Product 40",
+      "sku": "SKU040",
+      "price": 8.99,
+      "quantity": 140,
+      "supplier": "Supplier NN"
+    },
+    {
+      "product_id": 41,
+      "name": "Product 41",
+      "sku": "SKU041",
+      "price": 18.99,
+      "quantity": 180,
+      "supplier": "Supplier OO"
+    },
+    {
+      "product_id": 42,
+      "name": "Product 42",
+      "sku": "SKU042",
+      "price": 21.00,
+      "quantity": 250,
+      "supplier": "Supplier PP"
+    },
+    {
+      "product_id": 43,
+      "name": "Product 43",
+      "sku": "SKU043",
+      "price": 16.00,
+      "quantity": 60,
+      "supplier": "Supplier QQ"
+    },
+    {
+      "product_id": 44,
+      "name": "Product 44",
+      "sku": "SKU044",
+      "price": 23.10,
+      "quantity": 50,
+      "supplier": "Supplier RR"
+    },
+    {
+      "product_id": 45,
+      "name": "Product 45",
+      "sku": "SKU045",
+      "price": 28.75,
+      "quantity": 170,
+      "supplier": "Supplier SS"
+    },
+    {
+      "product_id": 46,
+      "name": "Product 46",
+      "sku": "SKU046",
+      "price": 9.75,
+      "quantity": 230,
+      "supplier": "Supplier TT"
+    },
+    {
+      "product_id": 47,
+      "name": "Product 47",
+      "sku": "SKU047",
+      "price": 30.20,
+      "quantity": 40,
+      "supplier": "Supplier UU"
+    },
+    {
+      "product_id": 48,
+      "name": "Product 48",
+      "sku": "SKU048",
+      "price": 19.50,
+      "quantity": 90,
+      "supplier": "Supplier VV"
+    },
+    {
+      "product_id": 49,
+      "name": "Product 49",
+      "sku": "SKU049",
+      "price": 17.40,
+      "quantity": 110,
+      "supplier": "Supplier WW"
+    },
+    {
+      "product_id": 50,
+      "name": "Product 50",
+      "sku": "SKU050",
+      "price": 22.00,
+      "quantity": 150,
+      "supplier": "Supplier XX"
+    }
+  ]
